@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=FinishLine
+comment0.text=\r\n\ Class\ that\ models\ objects\ of\ type\ "car"\r\n\ \r\n\ @Java\ MOOC\ team,\ UC3M\r\n\ @1.0\r\n
+comment1.params=file
+comment1.target=FinishLine(java.lang.String)
+comment1.text=\r\n\ Constructor\r\n
+numComments=2
